@@ -15,7 +15,7 @@ This API showcases modern Node.js development practices, emphasizing reliability
 Clone the repository and install all dependencies:
 
 ```bash
-git clone https://github.com/joshuaemerson/acquisition-api.git
+git clone https://github.com/joshuaemerson/user-managment-api.git
 cd acquisition-api
 npm install
 ```
