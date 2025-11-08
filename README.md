@@ -16,7 +16,7 @@ Clone the repository and install all dependencies:
 
 ```bash
 git clone https://github.com/joshuaemerson/user-managment-api.git
-cd acquisition-api
+cd user-managment-api
 npm install
 ```
 
@@ -51,7 +51,7 @@ NODE_ENV=development
 # Project Structure
 
 ```bash
-acquisitions-api/
+user-managment-api/
 ├── drizzle/                 # Drizzle ORM migrations
 ├── logs/                    # Winston and Morgan log output
 ├── scripts/                 # Helper bash scripts (dev.sh, prod.sh)
