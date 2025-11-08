@@ -1,6 +1,6 @@
-# 🧩 acquisitions-api
+# 🧩 user-managment-api
 
-The **acquisitions-api** project serves as a demonstration of newly *acquired* backend development skills — hence the name.  
+The **user-managment-api** project serves as a demonstration of newly *acquired* backend development skills. 
 
 It brings together practical experience with **Docker**, **Express.js**, **Zod validations**, **security middleware**, and **CI/CD pipelines** through **GitHub Actions**.  
 
